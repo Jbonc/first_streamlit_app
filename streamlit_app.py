@@ -30,3 +30,4 @@ streamlit.dataframe(fruityvice_normalized)
 #python -m pip install snowflake.connector
 import snowflake.connector 
  
+ 
